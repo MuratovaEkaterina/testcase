@@ -3,3 +3,6 @@ venv
 csvs
 app.db
 config.py
+.vscode
+.DS_Store
+task.txt
